@@ -5,7 +5,7 @@ The data is organized in the following way:
 -- `classify-coherent-icelandic.csv`: contains 10,000 Icelandic sentences that are either annotated as acceptable Icelandic sentences or unacceptable. The sentences are sampled from ParaCrawl and WikiMatrix and manually evaluated. The first column indicates the source of the sentence, the second column if it is acceptable (1) or unacceptable (0). The sentence itself is in the last column.
 
 
-### Not in this repository but available for download via the links, are 16501 EEA documents in [English][eea_16501_en] and [Icelandic][eea_16501_is]. The texts have been split on sentence boundaries and cleaned of HTML tags.
+Not in this repository but available for download via the links, are 16501 EEA documents in [English][eea_16501_en] and [Icelandic][eea_16501_is]. The texts have been split on sentence boundaries and cleaned of HTML tags.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.)
 
